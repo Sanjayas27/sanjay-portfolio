@@ -6,7 +6,7 @@ import growImg from "../assets/growmytherapy.png";
 import ecommerceImg from "../assets/ecommerce.png";
 import hiredoneImg from "../assets/hiredone.png";
 import metroImg from "../assets/metro.png";
-import sloozeImg from "../assets/sloozeimg.jpg"; 
+
 
 export default function AllProjects() {
   const projects = [
@@ -42,14 +42,7 @@ export default function AllProjects() {
       live: "https://your-live-link.com",
       github: "https://github.com/yourusername/project4",
     },
-    {
-      title: "Slooze Commodities Management", // <-- New Project
-      description:
-        "Next.js web application for managing commodities with role-based access.",
-      image: sloozeImg,
-      live: "https://slooze-inventory-seven.vercel.app/",
-      github: "https://github.com/Sanjayas27/slooze-inventory",
-    },
+
   ];
 
   return (
