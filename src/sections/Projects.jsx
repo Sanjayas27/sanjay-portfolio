@@ -18,13 +18,12 @@ export default function Projects() {
     github: "https://github.com/Sanjayas27/bizzare",
   },
   {
-    title: "HireDone – Local Job Connect Platform",
-    description:
-      "Platform connecting local employers and job seekers, enabling job postings and direct application workflows with user-focused design.",
-    tech: ["React / JS", "Frontend Architecture", "UI Design"],
-    live: "https://sanjayas27.github.io/hiredone/",
-    github: "https://github.com/Sanjayas27/hiredone",
-  },
+  title: "Slooze Commodities Management",
+  description: "A Next.js web application for managing commodities with role-based access.",
+  githubLink: "https://github.com/yourusername/slooze-commodities",
+  liveLink: "https://slooze-commodities.vercel.app",
+  image: "/public/slooze-logo.png", // optional screenshot
+},
 
   ];
 
