@@ -17,12 +17,12 @@ export default function Projects() {
     live: "https://sanjayas27.github.io/bizzare/",
     github: "https://github.com/Sanjayas27/bizzare",
   },
-  {
+{
   title: "Slooze Commodities Management",
   description: "A Next.js web application for managing commodities with role-based access.",
-  githubLink: "https://github.com/yourusername/slooze-commodities",
-  liveLink: "https://slooze-commodities.vercel.app",
-  image: "/public/slooze-logo.png", // optional screenshot
+  tech: ["Next.js", "React", "Tailwind CSS", "Role-based Access"],
+  github: "https://github.com/Sanjayas27/slooze-inventory",
+  live: "https://slooze-inventory-seven.vercel.app/",
 },
 
   ];
