@@ -21,8 +21,8 @@ export default function Projects() {
   title: "Slooze Commodities Management",
   description: "A Next.js web application for managing commodities with role-based access.",
   tech: ["Next.js", "React", "Tailwind CSS", "Role-based Access"],
-  github: "https://github.com/Sanjayas27/slooze-inventory",
   live: "https://slooze-inventory-seven.vercel.app/",
+  github: "https://github.com/Sanjayas27/slooze-inventory",
 },
 
   ];

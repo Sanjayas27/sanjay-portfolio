@@ -6,7 +6,7 @@ import growImg from "../assets/growmytherapy.png";
 import ecommerceImg from "../assets/ecommerce.png";
 import hiredoneImg from "../assets/hiredone.png";
 import metroImg from "../assets/metro.png";
-import sloozeImg from "../assets/slooze.png"; 
+import sloozeImg from "../assets/sloozeimg.jpg"; 
 
 export default function AllProjects() {
   const projects = [
