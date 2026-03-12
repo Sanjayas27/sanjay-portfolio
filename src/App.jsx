@@ -2,6 +2,7 @@ import Hero from "./sections/Hero";
 import About from "./sections/About";
 import Skills from "./sections/Skills";
 import Projects from "./sections/Projects";
+import Ventures from "./sections/Ventures";
 import Education from "./sections/Education";
 import Contact from "./sections/Contact";
 import Navbar from "./components/Navbar";
@@ -27,6 +28,7 @@ function App() {
               <About />
               <Skills />
               <Projects />
+              <Ventures />
               <Education />
               <Contact />
               <Footer />
