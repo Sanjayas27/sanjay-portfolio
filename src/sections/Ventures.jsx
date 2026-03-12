@@ -55,11 +55,11 @@ export default function Ventures() {
               </p>
 
               <p className="text-gray-300 leading-relaxed mb-6">
-                DarkFox is a digital venture I started to offer{" "}
-                <span className="text-white font-medium">free, high-quality websites</span>{" "}
-                to individuals and small businesses who can't afford one — making the web
-                more accessible. It also serves as a parent company for my upcoming
-                startup ideas, which will be incubated and launched under this brand.
+                DarkFox is a digital venture I started to deliver{" "}
+                <span className="text-white font-medium">high-quality websites and applications</span>{" "}
+                to individuals and small businesses — making professional web presence accessible to 
+                everyone. It also serves as a parent company for my upcoming startup ideas, 
+                which will be incubated and launched under this brand.
               </p>
 
               {/* What it does */}
