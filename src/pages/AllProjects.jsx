@@ -6,7 +6,8 @@ import growImg from "../assets/growmytherapy.png";
 import ecommerceImg from "../assets/ecommerce.png";
 import hiredoneImg from "../assets/hiredone.png";
 import metroImg from "../assets/metro.png";
-import sloozeImg from "../assets/sloozeimg.jpg"; // <-- New project image
+import sloozeImg from "../assets/sloozeimg.jpg";
+import critiqrImg from "../assets/critiqr.png"; // <-- New project image
 
 export default function AllProjects() {
   const projects = [
@@ -49,6 +50,14 @@ export default function AllProjects() {
       image: sloozeImg,
       live: "https://slooze-inventory-seven.vercel.app/",
       github: "https://github.com/Sanjayas27/slooze-inventory",
+    },
+      {
+      title: "Critiqr", // <-- New Project
+      description:
+        "A website for anyone to post their review about a movie",
+      image: critiqrImg,
+      live: "https://critiqr.vercel.app/",
+      github: "https://github.com/Sanjayas27/Critiqr",
     },
   ];
 
