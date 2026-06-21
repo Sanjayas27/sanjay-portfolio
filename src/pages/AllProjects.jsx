@@ -11,6 +11,14 @@ import critiqrImg from "../assets/critiqr.png"; // <-- New project image
 
 export default function AllProjects() {
   const projects = [
+      {
+      title: "Curalink",
+      description:
+        "CuraLink – A full-stack AI medical research assistant built with React, Node.js, MongoDB, and Llama 3.3 70B using a custom RAG pipeline.",
+      image: curalink,
+      live: "http://curalink-ten-omega.vercel.app/",
+      github: "https://github.com/Sanjayas27/curalink",
+    },
     {
       title: "Grow My Therapy",
       description:
