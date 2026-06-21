@@ -7,6 +7,7 @@ import ecommerceImg from "../assets/ecommerce.png";
 import hiredoneImg from "../assets/hiredone.png";
 import metroImg from "../assets/metro.png";
 import sloozeImg from "../assets/sloozeimg.jpg";
+import curalink from "../assets/curalink.png";
 import critiqrImg from "../assets/critiqr.png"; // <-- New project image
 
 export default function AllProjects() {
